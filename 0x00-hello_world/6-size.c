@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main - A programming low leve
+ *Return 0 (Success)
  */
 int main(void)
 {
