@@ -1,5 +1,5 @@
 #include <stdio.h>
-/** 
+/**
  * main - A programe that prints with printf function
  * Return: 0 (Success)
  */
