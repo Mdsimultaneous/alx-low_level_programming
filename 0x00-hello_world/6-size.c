@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - A programming low leve
- *Return 0 (Success)
+ * main - A programming that prints the size of various computer types
+ * Return 0 (Success)
  */
 int main(void)
 {
