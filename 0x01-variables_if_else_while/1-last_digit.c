@@ -7,6 +7,7 @@
  *Return: Always 0 (success)
  */
 int main(void)
+	/* This is the description for function main */
 {
 		int n;
 		srand(time(0));
