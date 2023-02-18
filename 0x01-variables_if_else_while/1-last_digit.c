@@ -6,10 +6,10 @@
  * and whether it is greater than 5, less than 6, or 0
  * Return: Always 0 (success)
  */
-int main(void)
-	/* Documentation*/
+int main(void
 {
 	int n;
+
 	/* This is the description */
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
