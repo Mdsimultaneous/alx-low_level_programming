@@ -7,6 +7,7 @@
  * Return: Always 0 (success)
  */
 int main(void)
+/* jsjshsjsjshh */
 {
 int n;
 /* ghjgffgjiu*/
