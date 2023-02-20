@@ -5,7 +5,6 @@
  * Return: Always 0 (Success)
  */
 int main(void)
-/* sjshajjwjaj */
 {
 int ch;
 /* Description for main */
