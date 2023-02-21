@@ -1,4 +1,4 @@
-#include "main.h"
+#include <main.h>
 /**
  * main - prints Holberton as a message
  * Return: Always 0 (Success)
@@ -10,7 +10,7 @@ int main(void)
 	sz=sizeof(st)/sizeof(int);
 	for(count=0; count<sz; count++)
 	{
-		_putchar(str[count]);
+		_putchar(str(count));
 	}
 	_putchar(/n);
 	return(0);
