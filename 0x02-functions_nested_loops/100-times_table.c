@@ -20,9 +20,9 @@ void print_times_table(int n)
 	{
 	_putchar(',');
 	_putchar(' ');
-	prod = numb * multi;
+	prod = num * multi;
 	if (prod <= 99)
-	_putchat(' ')
+	_putchar(' ')
 	if (prod <= 9)
 	_putchar(' ');
 	if (prod >= 100)
