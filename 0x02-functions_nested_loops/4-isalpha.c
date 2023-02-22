@@ -4,8 +4,7 @@
 * @c:character to check if it islowercase.
 * Return:1-if lowercase/uppercase,0-if not.
 */
-
- int _isalpha(int c)
+int _isalpha(int c)
 {
 return ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'));
 }
