@@ -13,3 +13,15 @@ int _abs(int n)
 	}
 	return (-n);
 }
+int _abs(int a)
+{
+    int k = a;
+    int absvalue;
+
+    if (k < 0)
+    {
+        k = k * (-1);
+    }
+    absvalue = k;
+    return (absvalue);
+}
