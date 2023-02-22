@@ -5,15 +5,11 @@
 *Return:returns the abs value.
 *
 */
-int _abs(int a)
+int _abs(int n)
 {
-    int k = a;
-    int absvalue;
-
-    if (k < 0)
-    {
-        k = k * (-1);
-    }
-    absvalue = k;
-    return (absvalue);
+	if (n >= 0)
+	{
+	return (n);
+	}
+	return (-n);
 }
