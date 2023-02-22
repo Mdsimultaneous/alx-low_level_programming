@@ -4,11 +4,15 @@
  * @n: the int to check
  * Return: the absolute value of int
  */
-int _abs(int n)
+int _abs(int a)
 {
-	if (n >= 0)
-	{
-	return (n);
-	}
-	return (-n);
+    int k = a;
+    int absvalue;
+
+    if (k < 0)
+    {
+        k = k * (-1);
+    }
+    absvalue = k;
+    return (absvalue);
 }
