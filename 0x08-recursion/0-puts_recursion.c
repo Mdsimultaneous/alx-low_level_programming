@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 /**
  * 0x08-recursion
  * command
